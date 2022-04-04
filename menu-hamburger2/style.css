@@ -94,7 +94,7 @@ nav li a:hover {
         position: fixed;
         top: 0;
         right: -20rem;
-        transition: all .2s;
+        transition: all 1s;
     }
     
     .sidibar.show-menu {
